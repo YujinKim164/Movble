@@ -16,9 +16,6 @@
 
 ## **프로젝트 소개**
 
-### 발표자료
-[추후 공개 예정]
-
 ### 기술 스텍
 <div style={display:flex}>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
