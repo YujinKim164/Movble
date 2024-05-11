@@ -17,7 +17,7 @@
 ## **프로젝트 소개**
 
 ### 발표자료
-[추후 공개 예정](http://quddkflty.tistory.com)
+[추후 공개 예정]
 
 ### 기술 스텍
 <div style={display:flex}>
